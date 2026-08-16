@@ -1,0 +1,11 @@
+m,run,item,value_player0,value_player1,value_player2,value_player3,value_player4,rr_allocation,astar_allocation,rr_player_order,value_range
+10,illustrative_seed42,0,175,154,104,103,111,4,0,"[3, 1, 2, 4, 0]",100-200
+10,illustrative_seed42,1,67,69,104,117,43,3,1,"[3, 1, 2, 4, 0]",40-120
+10,illustrative_seed42,2,45,22,44,36,24,0,0,"[3, 1, 2, 4, 0]",10-50
+10,illustrative_seed42,3,264,300,221,357,372,3,3,"[3, 1, 2, 4, 0]",150-400
+10,illustrative_seed42,4,40,60,94,83,75,1,2,"[3, 1, 2, 4, 0]",40-120
+10,illustrative_seed42,5,119,127,197,143,113,2,2,"[3, 1, 2, 4, 0]",100-200
+10,illustrative_seed42,6,173,247,174,241,366,1,4,"[3, 1, 2, 4, 0]",150-400
+10,illustrative_seed42,7,84,117,73,45,98,0,1,"[3, 1, 2, 4, 0]",40-120
+10,illustrative_seed42,8,44,17,34,15,45,4,0,"[3, 1, 2, 4, 0]",10-50
+10,illustrative_seed42,9,28,50,49,33,46,2,1,"[3, 1, 2, 4, 0]",10-50
